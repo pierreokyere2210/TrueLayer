@@ -1,0 +1,15 @@
+{
+    "postgres":{
+        "host":"localhost",
+        "dbname":"truefilm",
+        "user":"postgres",
+        "password":"dover2210",
+        "port": 9011
+    },
+
+    "gsheets":{
+        "table_name": "truefilm_tfr",
+        "sheet_name": "truefilm",
+        "credential_file_name": "client_secret.json"
+    }
+}
