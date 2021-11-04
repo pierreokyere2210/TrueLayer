@@ -23,8 +23,10 @@ ALGORITHM CHOICES:
 
 THINGS TO IMPROVE:
 
-- Look into better wikipedia api\'92s (in latest pull 944/1000) return no results of wikipedia summary(high importance)
+- Look into better wikipedia API - (in latest pull 944/1000) return no results of wikipedia summary(high importance)
 
 - Better display production companies 
 
 - Loop part of the code (low importance  - (importance low because script is run periodically)
+
+- To make process reproducible - automating the creating of the database table based on table headers would be a next step
